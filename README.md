@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
 # Hand Gesture Recognition for System Control
 
 A project by **Chirag Rathi** for Amity University, demonstrating real-time gesture control for system volume and brightness using Python, OpenCV, and MediaPipe.
